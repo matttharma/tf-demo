@@ -3,11 +3,11 @@ terraform {
     organization = "linuxdock"
 
     workspaces {
-      name = "SE-Workspace"
+      name = "tf-demo"
     }
   }
 }
 
 output "hello_world" {
-  value = "Hello, World from Matt Tharma!"
+  value = "Hello, World from Matt Tharma's world!"
 }

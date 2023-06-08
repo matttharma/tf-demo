@@ -9,5 +9,5 @@ terraform {
 }
 
 output "hello_world" {
-  value = "Hello, World from Matt Tharma and Team!"
+  value = "Hello, World from Matt Tharma and Armory Team!"
 }
